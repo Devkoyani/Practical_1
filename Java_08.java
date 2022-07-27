@@ -6,7 +6,7 @@ public class Java_08 {
         // 4.8%1.1 --> Returns Decimal Remainder
 
         // 2. Assignment Operators
-        int b = 9;
+        int b = 10;
         b *= 3;
         System.out.println(b);
 
